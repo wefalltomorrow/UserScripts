@@ -13,8 +13,8 @@
 // TURN ON/OFF FEATURES HERE
 const infinite_scrolling = true;
 const mentioning = true;
-const dynamic_who_is_online = true;
-const dynamic_time = true;
+const dynamic_who_is_online = false;
+const dynamic_time = false;
 const custom_tags = true;
 
 // DO NOT TOUCH BELOW
